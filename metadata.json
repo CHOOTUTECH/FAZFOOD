@@ -1,0 +1,6 @@
+{
+  "name": "FazFood",
+  "description": "Gourmet Fast Food Ordering Platform featuring customized burger selections, interactive menus, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
